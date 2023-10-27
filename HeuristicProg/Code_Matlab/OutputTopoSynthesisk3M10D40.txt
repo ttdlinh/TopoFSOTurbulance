@@ -1,0 +1,1 @@
+k	3.000000 	 M	10	 rho	1.111111	 D	40 	 L_mean	1588.602162 	 L_feasible	23 	 sum_bw	8120 	 net_u	0.525261	k	3.000000 	 M	10	 rho	1.111111	 D	40 	 L_mean	1588.602162 	 L_feasible	23 	 sum_bw	8120 	 net_u	0.525261	KHONG CO LOI GIAI 

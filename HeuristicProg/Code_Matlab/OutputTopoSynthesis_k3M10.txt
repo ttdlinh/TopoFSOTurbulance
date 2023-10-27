@@ -1,0 +1,15 @@
+k	3.000000 	 M	10	 rho	1.111111	 D	10 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	2091 	 net_u	0.121043		 timeTopo	13.9840 	 Tong link 	10 	Efficiency 	 0.434783 	 Avg links/path 	2.700000 	 Tong BER 	7.349839e-05
+k	3.000000 	 M	10	 rho	1.111111	 D	15 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	3144 	 net_u	0.195217		 timeTopo	0.2810 	 Tong link 	13 	Efficiency 	 0.565217 	 Avg links/path 	3.000000 	 Tong BER 	7.353852e-05
+k	3.000000 	 M	10	 rho	1.111111	 D	20 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	4105 	 net_u	0.300000		 timeTopo	10.4840 	 Tong link 	21 	Efficiency 	 0.954545 	 Avg links/path 	3.500000 	 Tong BER 	7.443717e-04
+k	3.000000 	 M	10	 rho	1.111111	 D	25 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	4869 	 net_u	0.341500		 timeTopo	0.3120 	 Tong link 	19 	Efficiency 	 0.863636 	 Avg links/path 	2.720000 	 Tong BER 	4.688363e-04
+k	3.000000 	 M	10	 rho	1.111111	 D	30 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	5933 	 net_u	0.425000	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	35 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	6842 	 net_u	0.475636	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	40 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	7667 	 net_u	0.523682	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	8809 	 net_u	0.610045	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	30 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	5933 	 net_u	0.425000	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	35 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	6842 	 net_u	0.475636	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	40 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	7667 	 net_u	0.523682	KHONG CO LOI GIAI 
+k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	8809 	 net_u	0.610045	KHONG CO LOI GIAI 
+
+k	3.000000 	 M	10	 rho	1.111111	 D	10 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	2023 	 net_u	0.148545		 timeTopo	0.3820 	 Tong link 	12 	Efficiency 	 0.545455 	 Avg links/path 	3.300000 	 Tong BER 	3.625534e-05
+k	3.000000 	 M	10	 rho	1.111111	 D	15 	 L_mean	1579.850285 	 L_feasible	22 	 sum_bw	3197 	 net_u	0.232591		 timeTopo	0.3230 	 Tong link 	17 	Efficiency 	 0.772727 	 Avg links/path 	3.600000 	 Tong BER 	2.654171e-04

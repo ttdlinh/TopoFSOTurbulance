@@ -1,0 +1,9 @@
+Hướng dẫn chạy chương trình vẽ topo.
+B1:Mở matlap
+B2:Trong Matlap mở file TopoFSO.m
+B3:Ấn run.
+
+Chương trình của em chỉ thêm 1 phần vẽ topo vào code của a Sỹ.
+Do đó cô có thể thay đổi file_input_nodes được để trong folder input_output bằng cách thay đổi đường dẫn tới file ở dòng code thứ 6 trong TopoFSO.m
+Ngoài ra Topo được vẽ sau khi run khá khó nhìn rõ trong không gian 3d.Cô có thể sử dụng các button zoom in/out và rotate 3d trong cửa sổ figure để chỉnh lại sao cho dễ nhìn 
+các link topo nhất.

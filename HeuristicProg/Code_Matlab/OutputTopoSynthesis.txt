@@ -1,0 +1,71 @@
+ 	 k	4.000000 	 M	15	 rho	0.937500	 D	100 	 L_mean	1828.464698 	 L_feasible	43 	 sum_bw	20900 	 net_u	0.399198	No feasible solution
+ 	 k	4.000000 	 M	17	 rho	1.062500	 D	100 	 L_mean	1883.243527 	 L_feasible	57 	 sum_bw	20900 	 net_u	0.301149	No feasible solution
+ 	 k	4.000000 	 M	19	 rho	1.187500	 D	100 	 L_mean	1905.741332 	 L_feasible	72 	 sum_bw	20900 	 net_u	0.238410	No feasible solution
+ 	 k	4.000000 	 M	21	 rho	1.312500	 D	100 	 L_mean	1896.349406 	 L_feasible	85 	 sum_bw	20900 	 net_u	0.201947	No feasible solution
+ 	 k	4.000000 	 M	23	 rho	1.437500	 D	100 	 L_mean	2025.172880 	 L_feasible	94 	 sum_bw	20900 	 net_u	0.182612	No feasible solution
+ 	 k	4.000000 	 M	25	 rho	1.562500	 D	100 	 L_mean	2030.943629 	 L_feasible	109 	 sum_bw	20900 	 net_u	0.157482		 timeTopo	8.9060 	 Tong link 	57 	Efficiency 	 0.522936 	 Avg links/path 	3.140000 	 Tong BER 	1.025952e-02
+ 	 k	4.000000 	 M	27	 rho	1.687500	 D	100 	 L_mean	2081.277857 	 L_feasible	124 	 sum_bw	20900 	 net_u	0.138431		 timeTopo	11.5320 	 Tong link 	56 	Efficiency 	 0.451613 	 Avg links/path 	3.060000 	 Tong BER 	1.110317e-02
+ 	 k	4.000000 	 M	29	 rho	1.812500	 D	100 	 L_mean	2061.589939 	 L_feasible	144 	 sum_bw	20900 	 net_u	0.119205		 timeTopo	13.2810 	 Tong link 	52 	Efficiency 	 0.361111 	 Avg links/path 	2.820000 	 Tong BER 	7.605552e-03
+ 	 k	4.000000 	 M	31	 rho	1.937500	 D	100 	 L_mean	2101.658651 	 L_feasible	159 	 sum_bw	20900 	 net_u	0.107959		 timeTopo	9.9070 	 Tong link 	52 	Efficiency 	 0.327044 	 Avg links/path 	2.820000 	 Tong BER 	7.605552e-03
+ 	 k	4.000000 	 M	33	 rho	2.062500	 D	100 	 L_mean	2140.893816 	 L_feasible	176 	 sum_bw	20900 	 net_u	0.097531		 timeTopo	9.7500 	 Tong link 	52 	Efficiency 	 0.295455 	 Avg links/path 	2.820000 	 Tong BER 	7.605552e-03
+ 	 k	4.000000 	 M	35	 rho	2.187500	 D	100 	 L_mean	2105.181095 	 L_feasible	203 	 sum_bw	20900 	 net_u	0.084559		 timeTopo	25.0150 	 Tong link 	49 	Efficiency 	 0.241379 	 Avg links/path 	2.700000 	 Tong BER 	8.057237e-03
+ 	 k	4.000000 	 M	37	 rho	2.312500	 D	100 	 L_mean	2070.399824 	 L_feasible	234 	 sum_bw	20900 	 net_u	0.073357		 timeTopo	21.7500 	 Tong link 	50 	Efficiency 	 0.213675 	 Avg links/path 	2.630000 	 Tong BER 	8.462488e-03
+ 	 k	4.000000 	 M	39	 rho	2.437500	 D	100 	 L_mean	2101.214471 	 L_feasible	254 	 sum_bw	20900 	 net_u	0.067581		 timeTopo	10.7030 	 Tong link 	50 	Efficiency 	 0.196850 	 Avg links/path 	2.630000 	 Tong BER 	8.462488e-03
+ 	 k	4.000000 	 M	41	 rho	2.562500	 D	100 	 L_mean	2102.957072 	 L_feasible	278 	 sum_bw	20900 	 net_u	0.061746		 timeTopo	44.1090 	 Tong link 	50 	Efficiency 	 0.179856 	 Avg links/path 	2.630000 	 Tong BER 	8.462488e-03
+ 	 k	4.000000 	 M	43	 rho	2.687500	 D	100 	 L_mean	2062.791746 	 L_feasible	320 	 sum_bw	20900 	 net_u	0.053642		 timeTopo	101.1730 	 Tong link 	47 	Efficiency 	 0.146875 	 Avg links/path 	2.520000 	 Tong BER 	5.081979e-03
+ 	 k	4.000000 	 M	45	 rho	2.812500	 D	100 	 L_mean	2033.967379 	 L_feasible	358 	 sum_bw	20900 	 net_u	0.047948		 timeTopo	83.5470 	 Tong link 	47 	Efficiency 	 0.131285 	 Avg links/path 	2.520000 	 Tong BER 	5.081979e-03
+ 	 k	5.000000 	 M	25	 rho	1.000000	 D	130 	 L_mean	2538.965050 	 L_feasible	77 	 sum_bw	26167 	 net_u	0.342370	No feasible solution
+ 	 k	5.000000 	 M	27	 rho	1.080000	 D	130 	 L_mean	2536.162953 	 L_feasible	91 	 sum_bw	26167 	 net_u	0.289698	No feasible solution
+ 	 k	5.000000 	 M	29	 rho	1.160000	 D	130 	 L_mean	2641.626279 	 L_feasible	100 	 sum_bw	26167 	 net_u	0.263625	No feasible solution
+ 	 k	5.000000 	 M	31	 rho	1.240000	 D	130 	 L_mean	2599.400805 	 L_feasible	117 	 sum_bw	26167 	 net_u	0.225321	No feasible solution
+ 	 k	5.000000 	 M	33	 rho	1.320000	 D	130 	 L_mean	2607.452620 	 L_feasible	130 	 sum_bw	26167 	 net_u	0.202788		 timeTopo	9.4380 	 Tong link 	74 	Efficiency 	 0.569231 	 Avg links/path 	3.069231 	 Tong BER 	1.378490e-02
+ 	 k	5.000000 	 M	35	 rho	1.400000	 D	130 	 L_mean	2587.204467 	 L_feasible	148 	 sum_bw	26167 	 net_u	0.178125		 timeTopo	11.6560 	 Tong link 	74 	Efficiency 	 0.500000 	 Avg links/path 	3.069231 	 Tong BER 	1.378490e-02
+ 	 k	5.000000 	 M	37	 rho	1.480000	 D	130 	 L_mean	2620.553274 	 L_feasible	160 	 sum_bw	26167 	 net_u	0.164766		 timeTopo	9.2970 	 Tong link 	74 	Efficiency 	 0.462500 	 Avg links/path 	3.069231 	 Tong BER 	1.378490e-02
+ 	 k	5.000000 	 M	39	 rho	1.560000	 D	130 	 L_mean	2602.673126 	 L_feasible	176 	 sum_bw	26167 	 net_u	0.149787		 timeTopo	17.4370 	 Tong link 	75 	Efficiency 	 0.426136 	 Avg links/path 	3.076923 	 Tong BER 	1.534144e-02
+ 	 k	5.000000 	 M	41	 rho	1.640000	 D	130 	 L_mean	2645.259632 	 L_feasible	188 	 sum_bw	26167 	 net_u	0.140226		 timeTopo	11.9060 	 Tong link 	75 	Efficiency 	 0.398936 	 Avg links/path 	3.076923 	 Tong BER 	1.534144e-02
+ 	 k	5.000000 	 M	43	 rho	1.720000	 D	130 	 L_mean	2647.426596 	 L_feasible	210 	 sum_bw	26167 	 net_u	0.125536		 timeTopo	16.3750 	 Tong link 	75 	Efficiency 	 0.357143 	 Avg links/path 	3.076923 	 Tong BER 	1.534144e-02
+ 	 k	5.000000 	 M	45	 rho	1.800000	 D	130 	 L_mean	2702.521693 	 L_feasible	221 	 sum_bw	26167 	 net_u	0.119287		 timeTopo	7.6720 	 Tong link 	75 	Efficiency 	 0.339367 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	47	 rho	1.880000	 D	130 	 L_mean	2676.254796 	 L_feasible	247 	 sum_bw	26167 	 net_u	0.106731		 timeTopo	18.1720 	 Tong link 	75 	Efficiency 	 0.303644 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	49	 rho	1.960000	 D	130 	 L_mean	2664.486381 	 L_feasible	275 	 sum_bw	26167 	 net_u	0.095864		 timeTopo	37.5320 	 Tong link 	75 	Efficiency 	 0.272727 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	51	 rho	2.040000	 D	130 	 L_mean	2681.375867 	 L_feasible	294 	 sum_bw	26167 	 net_u	0.089668		 timeTopo	94.3760 	 Tong link 	75 	Efficiency 	 0.255102 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	53	 rho	2.120000	 D	130 	 L_mean	2690.861027 	 L_feasible	320 	 sum_bw	26167 	 net_u	0.082383		 timeTopo	117.2040 	 Tong link 	75 	Efficiency 	 0.234375 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	55	 rho	2.200000	 D	130 	 L_mean	2660.473376 	 L_feasible	353 	 sum_bw	26167 	 net_u	0.074681		 timeTopo	100.1260 	 Tong link 	75 	Efficiency 	 0.212465 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	57	 rho	2.280000	 D	130 	 L_mean	2640.325770 	 L_feasible	381 	 sum_bw	26167 	 net_u	0.069193		 timeTopo	157.4080 	 Tong link 	75 	Efficiency 	 0.196850 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	59	 rho	2.360000	 D	130 	 L_mean	2657.447235 	 L_feasible	407 	 sum_bw	26167 	 net_u	0.064773		 timeTopo	206.9080 	 Tong link 	75 	Efficiency 	 0.184275 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	61	 rho	2.440000	 D	130 	 L_mean	2672.150758 	 L_feasible	428 	 sum_bw	26167 	 net_u	0.061595		 timeTopo	253.6900 	 Tong link 	75 	Efficiency 	 0.175234 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	63	 rho	2.520000	 D	130 	 L_mean	2628.121816 	 L_feasible	464 	 sum_bw	26167 	 net_u	0.056816		 timeTopo	272.6120 	 Tong link 	75 	Efficiency 	 0.161638 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	65	 rho	2.600000	 D	130 	 L_mean	2656.528923 	 L_feasible	482 	 sum_bw	26167 	 net_u	0.054694		 timeTopo	279.0180 	 Tong link 	75 	Efficiency 	 0.155602 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	67	 rho	2.680000	 D	130 	 L_mean	2657.041057 	 L_feasible	511 	 sum_bw	26167 	 net_u	0.051590		 timeTopo	292.4550 	 Tong link 	75 	Efficiency 	 0.146771 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	5.000000 	 M	69	 rho	2.760000	 D	130 	 L_mean	2645.488334 	 L_feasible	547 	 sum_bw	26167 	 net_u	0.048195		 timeTopo	306.4710 	 Tong link 	75 	Efficiency 	 0.137112 	 Avg links/path 	3.061538 	 Tong BER 	1.534093e-02
+ 	 k	6.000000 	 M	36	 rho	1.000000	 D	200 	 L_mean	2973.550928 	 L_feasible	132 	 sum_bw	38928 	 net_u	0.332235	No feasible solution
+ 	 k	6.000000 	 M	38	 rho	1.055556	 D	200 	 L_mean	2949.160494 	 L_feasible	147 	 sum_bw	38928 	 net_u	0.298333	No feasible solution
+ 	 k	6.000000 	 M	40	 rho	1.111111	 D	200 	 L_mean	3013.776464 	 L_feasible	157 	 sum_bw	38928 	 net_u	0.279331	No feasible solution
+ 	 k	6.000000 	 M	42	 rho	1.166667	 D	200 	 L_mean	3037.369062 	 L_feasible	168 	 sum_bw	38928 	 net_u	0.261042	No feasible solution
+ 	 k	6.000000 	 M	44	 rho	1.222222	 D	200 	 L_mean	3067.359586 	 L_feasible	186 	 sum_bw	38928 	 net_u	0.235780	No feasible solution
+ 	 k	6.000000 	 M	46	 rho	1.277778	 D	200 	 L_mean	3072.617665 	 L_feasible	205 	 sum_bw	38928 	 net_u	0.213927	No feasible solution
+ 	 k	6.000000 	 M	48	 rho	1.333333	 D	200 	 L_mean	3032.546304 	 L_feasible	227 	 sum_bw	38928 	 net_u	0.193194	No feasible solution
+ 	 k	6.000000 	 M	50	 rho	1.388889	 D	200 	 L_mean	3003.660339 	 L_feasible	253 	 sum_bw	38928 	 net_u	0.173340	No feasible solution
+ 	 k	6.000000 	 M	52	 rho	1.444444	 D	200 	 L_mean	3015.282277 	 L_feasible	266 	 sum_bw	38928 	 net_u	0.164868	No feasible solution
+ 	 k	6.000000 	 M	54	 rho	1.500000	 D	200 	 L_mean	3011.104998 	 L_feasible	278 	 sum_bw	38928 	 net_u	0.157752	No feasible solution
+ 	 k	6.000000 	 M	56	 rho	1.555556	 D	200 	 L_mean	3040.056021 	 L_feasible	294 	 sum_bw	38928 	 net_u	0.149167	No feasible solution
+ 	 k	6.000000 	 M	58	 rho	1.611111	 D	200 	 L_mean	3044.470976 	 L_feasible	306 	 sum_bw	38928 	 net_u	0.143317	No feasible solution
+ 	 k	6.000000 	 M	60	 rho	1.666667	 D	200 	 L_mean	3011.359135 	 L_feasible	334 	 sum_bw	38928 	 net_u	0.131302	No feasible solution
+ 	 k	6.000000 	 M	62	 rho	1.722222	 D	200 	 L_mean	3016.763274 	 L_feasible	353 	 sum_bw	38928 	 net_u	0.124235		 timeTopo	81.6890 	 Tong link 	126 	Efficiency 	 0.356941 	 Avg links/path 	3.540000 	 Tong BER 	3.035749e-02
+ 	 k	6.000000 	 M	66	 rho	1.833333	 D	200 	 L_mean	3053.839842 	 L_feasible	396 	 sum_bw	38928 	 net_u	0.110745		 timeTopo	151.6270 	 Tong link 	126 	Efficiency 	 0.318182 	 Avg links/path 	3.585000 	 Tong BER 	3.434414e-02
+ 	 k	6.000000 	 M	68	 rho	1.888889	 D	200 	 L_mean	3072.005928 	 L_feasible	418 	 sum_bw	38928 	 net_u	0.104916		 timeTopo	249.1120 	 Tong link 	126 	Efficiency 	 0.301435 	 Avg links/path 	3.585000 	 Tong BER 	3.434414e-02
+ 	 k	6.000000 	 M	70	 rho	1.944444	 D	200 	 L_mean	3092.175602 	 L_feasible	437 	 sum_bw	38928 	 net_u	0.100355		 timeTopo	259.7680 	 Tong link 	125 	Efficiency 	 0.286041 	 Avg links/path 	3.530000 	 Tong BER 	3.549193e-02
+ 	 k	6.000000 	 M	72	 rho	2.000000	 D	200 	 L_mean	3063.500424 	 L_feasible	474 	 sum_bw	38928 	 net_u	0.092521		 timeTopo	282.7840 	 Tong link 	125 	Efficiency 	 0.263713 	 Avg links/path 	3.530000 	 Tong BER 	3.549193e-02
+ 	 k	6.000000 	 M	74	 rho	2.055556	 D	200 	 L_mean	3062.749426 	 L_feasible	502 	 sum_bw	38928 	 net_u	0.087361		 timeTopo	301.0810 	 Tong link 	125 	Efficiency 	 0.249004 	 Avg links/path 	3.530000 	 Tong BER 	3.549193e-02
+ 	 k	6.000000 	 M	76	 rho	2.111111	 D	200 	 L_mean	3067.004981 	 L_feasible	531 	 sum_bw	38928 	 net_u	0.082589		 timeTopo	319.4710 	 Tong link 	125 	Efficiency 	 0.235405 	 Avg links/path 	3.530000 	 Tong BER 	3.549193e-02
+ 	 k	6.000000 	 M	78	 rho	2.166667	 D	200 	 L_mean	3063.942882 	 L_feasible	562 	 sum_bw	38928 	 net_u	0.078034		 timeTopo	336.3780 	 Tong link 	123 	Efficiency 	 0.218861 	 Avg links/path 	3.500000 	 Tong BER 	3.482709e-02
+ 	 k	6.000000 	 M	80	 rho	2.222222	 D	200 	 L_mean	3056.017991 	 L_feasible	591 	 sum_bw	38928 	 net_u	0.074205		 timeTopo	352.8160 	 Tong link 	123 	Efficiency 	 0.208122 	 Avg links/path 	3.500000 	 Tong BER 	3.482709e-02
+ 	 k	6.000000 	 M	82	 rho	2.277778	 D	200 	 L_mean	3028.278397 	 L_feasible	626 	 sum_bw	38928 	 net_u	0.070056		 timeTopo	375.9410 	 Tong link 	124 	Efficiency 	 0.198083 	 Avg links/path 	3.495000 	 Tong BER 	3.544695e-02
+ 	 k	6.000000 	 M	84	 rho	2.333333	 D	200 	 L_mean	3015.897971 	 L_feasible	658 	 sum_bw	38928 	 net_u	0.066649		 timeTopo	385.9100 	 Tong link 	124 	Efficiency 	 0.188450 	 Avg links/path 	3.495000 	 Tong BER 	3.544695e-02
+ 	 k	6.000000 	 M	86	 rho	2.388889	 D	200 	 L_mean	3042.274859 	 L_feasible	678 	 sum_bw	38928 	 net_u	0.064683		 timeTopo	399.2070 	 Tong link 	124 	Efficiency 	 0.182891 	 Avg links/path 	3.495000 	 Tong BER 	3.544695e-02
+ 	 k	6.000000 	 M	88	 rho	2.444444	 D	200 	 L_mean	3022.263445 	 L_feasible	727 	 sum_bw	38928 	 net_u	0.060323		 timeTopo	419.1760 	 Tong link 	124 	Efficiency 	 0.170564 	 Avg links/path 	3.495000 	 Tong BER 	3.544695e-02
+ 	 k	6.000000 	 M	90	 rho	2.500000	 D	200 	 L_mean	3036.748400 	 L_feasible	760 	 sum_bw	38928 	 net_u	0.057704		 timeTopo	438.3630 	 Tong link 	124 	Efficiency 	 0.163158 	 Avg links/path 	3.495000 	 Tong BER 	3.544695e-02
+ 	 k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	16005 	 net_u	0.522696	No feasible solution
+ 	 k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	16005 	 net_u	0.522696	No feasible solution
+ 	 k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	16005 	 net_u	0.522696	No feasible solution
+ 	 k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	16005 	 net_u	0.522696	No feasible solution
+ 	 k	3.000000 	 M	10	 rho	1.111111	 D	45 	 L_mean	1663.134491 	 L_feasible	23 	 sum_bw	16005 	 net_u	0.522696	No feasible solution
