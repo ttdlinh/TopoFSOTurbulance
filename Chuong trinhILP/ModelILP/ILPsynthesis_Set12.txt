@@ -1,0 +1,16 @@
+topoILPk2m5D5.txt	Tong so link = 4	Tong BER=0.000340718	Time process=76
+topoILPk2m6D7.txt	Tong so link = 5	Tong BER=0.000152161	Time process=184
+topoILPk2.5m7D10.txt	Tong so link = 6	Tong BER=2.409639270e-007	Time process=2603
+topoILPk2.5m8D14.txt	Tong so link = 7	Tong BER=0.00038559	Time process=17340
+topoILPk3m9D18.txt	Tong so link = 8	Tong BER=0.000063511	Time process=3760
+topoILPk3m10D11.txt	Tong so link = 8	Tong BER=0.000786856	Time process=2832
+topoILPk3m10D11.txt	Tong so link = 8	Tong BER=0.000786856	Time process=2707
+topoILPk3m10D22.txt	Tong so link = 10	Tong BER=0.00081849	Time process=23553
+topoILPk3m10D10.txt	Tong so link = 9	Tong BER=0.001098905	Time process=12496
+topoILPk3m10D15.txt	Tong so link = 9	Tong BER=0.001188144	Time process=17168
+topoILPk3m10D20.txt	Tong so link = 9	Tong BER=0.000510284	Time process=10522
+topoILPk3m10D25.txt	Tong so link = 10	Tong BER=0.000510608	Time process=63359
+topoILPk3m10D30.txt	Tong so link = 10	Tong BER=0.001384175	Time process=45692
+topoILPk3m10D35.txt	Tong so link = 10	Tong BER=0.001467187	Time process=51304
+topoILPk3m10D45.txt	Tong so link = 11	Tong BER=0.001247174	Time process=81886
+topoILPk3m10D40.txt	Tong so link = 11	Tong BER=0.00150073	Time process=66080

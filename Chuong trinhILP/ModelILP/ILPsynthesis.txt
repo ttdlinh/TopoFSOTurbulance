@@ -1,0 +1,5 @@
+topoILPk4m20D40.txt	Tong so link = 28	Tong BER=0.002794924	Time process=4414139
+topoILPk3m10D35.txt	Tong so link = 13	Tong BER=0.000390749	Time process=35705
+topoILPk3m10D35.txt	Tong so link = 13	Tong BER=0.001714385	Time process=38864
+topoILPk3m10D40.txt	Tong so link = 14	Tong BER=0.002128154	Time process=47278
+topoILPk3m10D45.txt	Tong so link = 15	Tong BER=0.002008145	Time process=18870
